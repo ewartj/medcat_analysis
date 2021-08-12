@@ -1,0 +1,13 @@
+term,precision,recall,f1,support
+surname,0.77,0.76,0.77,759
+emerg_numb,0.88,0.94,0.91,273
+DoB,0.98,0.99,0.98,790
+address_line,0.95,0.98,0.97,3494
+postcode,0.97,0.96,0.96,439
+nhs_number,0.96,0.68,0.97,141
+email,0.96,0.99,0.98,3147
+fore_name,0.84,0.89,0.86,1258
+telephone,0.94,0.98,0.96,485
+initials,0.68,0.34,0.46,119
+hosp?,0.87,0.95,0.91,107
+lab_number,0.45,1,0.625,5

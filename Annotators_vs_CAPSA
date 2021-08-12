@@ -1,0 +1,27 @@
+index,agree,disagree,percentage_agreement,sum,type
+address line,608,91,86.9814020028612,699,patient
+date of birth,830,20,97.6470588235294,850,patient
+email,0,7,14.2857142857143,7,patient
+emergency department_number,20,2191,0.904568068747173,2211,patient
+fore name,3640,63,98.2986767485822,3703,patient
+initials,0,18,5.55555555555556,18,patient
+lab number,0,578,0,578,patient
+national insurance,0,2,0,2,patient
+telephone number,2,2,50,4,patient
+surname,3372,51,98.5100788781771,3423,patient
+hospital number,1713,6,99.650959860384,1719,patient
+nhs number,724,4,99.4505494505495,728,patient
+postcode,691,23,96.7787114845939,714,patient
+address line,612,1469,29.4089380105718,2081,all
+date of birth,831,21,97.5352112676056,852,all
+email,15,1456,1.08769544527532,1471,all
+emergency department_number,20,2200,0.900900900900901,2220,all
+fore name,3694,1876,66.3195691202873,5570,all
+initials,0,1366,0.073206442166911,1366,all
+lab number,0,579,0,579,all
+national insurance,0,2,0,2,all
+telephone number,16,878,1.78970917225951,894,all
+surname,3412,4151,45.1143726034642,7563,all
+hospital number,1714,6,99.6511627906977,1720,all
+nhs number,738,4,99.4609164420485,742,all
+postcode,712,1363,34.3132530120482,2075,all
